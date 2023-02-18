@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository is to hold challenges and notes along the way through this bootcamp process.
+This repository is to hold challenges and projects along the way through this bootcamp process.
 
 
 ## Installation
@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Direct yourself to the challenges included in the repository to review and grade assignments and notes taken.
+Direct yourself to either the Completed Assignments to view and grade weekly challenges and projects or to the Challenges folder to view the challenges and projects at hand.
 
 ## Credits
 
