@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository is hold challenges and notes along the way through this bootcamp.
+This repository is to hold challenges and notes along the way through this bootcamp process.
 
 
 ## Installation
