@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Direct yourself to either the Completed Assignments to view and grade weekly challenges and projects or to the Challenges folder to view the challenges and projects at hand.
+Direct yourself to to the website that was revised to Semantic Standards.
 
 ## Credits
 
